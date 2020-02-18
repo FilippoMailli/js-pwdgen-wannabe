@@ -1,0 +1,13 @@
+#password-gen {
+    display: flex;
+    height: 100vh;
+    display: none;
+}
+
+#password-gen.visible {
+    display: block;
+}
+
+#password-gen .centra {
+    margin: auto;
+}
